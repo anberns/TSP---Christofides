@@ -1,0 +1,10 @@
+1. Complete graph G with coordinates of cities
+2. Find minimum spanning tree of graph G, T
+3. Calculate set of vertices in T with odd degree
+4. Form a subgraph using only odd degree vertices, G'
+5. Minimum-weight perfect matching in G', M
+6. Form Eulerian multigraph: T u M -> E
+7. Calculate Euler tour of E
+8. Shortcut by removing duplicate edges
+
+test3: 53 seconds
